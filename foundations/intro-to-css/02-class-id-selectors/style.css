@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.cooler{
+    font-size: 24px;
+}
+
+#number-two{
+    color: blue;
+    font-size: 36px;
+}
+
+#number-four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font: bold;
+}
+
+p,.cooler{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
